@@ -1,0 +1,3 @@
+# LXRGB
+### is an open-source software for rgb management on linux.
+### Note: This is my first project written in rust...
